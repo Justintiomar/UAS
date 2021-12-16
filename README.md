@@ -1,3 +1,3 @@
 # UAS
 
-Streamlit : https://github.com/Justintiomar/uas_12220086.git
+Streamlit : https://share.streamlit.io/justintiomar/uas/main/app.py
